@@ -1,0 +1,8 @@
+- domain name psych.gatech.edu
+- explore Human: https://github.com/vladmandic/human
+- can the data be exported to CSV? can we train the human model? can  we get the video recording via export?
+- explore EEGLab: https://github.com/kylemath/EEGEdu
+- merge both components for our usecase
+- change confidence score for hand tracking information
+- overlaying attenion information on the screen using the face tracking
+- add functionality to improve the sensory exploration done by hand
