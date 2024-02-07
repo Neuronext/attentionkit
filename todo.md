@@ -23,3 +23,5 @@ Setup todos:
 - page management:
     - remove pages 2, 3, 7 
     - 4 -> 2, 5 -> 3, 6 -> 4, 8 -> 5, 9 -> 6, 10 -> 7, 11 -> 8, 12 -> 9
+
+    
