@@ -20,8 +20,22 @@ Setup todos:
     - visualization 
     - raw data collection and export to csv feature
     - add an option to send this data to your email
-- page management:
-    - remove pages 2, 3, 7 
-    - 4 -> 2, 5 -> 3, 6 -> 4, 8 -> 5, 9 -> 6, 10 -> 7, 11 -> 8, 12 -> 9
+- Module should look like this 
+  - settings
+  - explain the exp 
+  - record data
+  - visualize data
 
-    
+
+To Ask:
+- user management, later?
+
+3. record spectral data - csv 
+3. freq domain data
+2. raw data from eeg electrodes
+2. record raw data - max 5min - can i write it to ssd, then i can change it to 2 hours
+5. running fft vis
+4. power by fre band
+- add download option for all the data
+- python and matlab script to simply collect the muse data
+- domain needs to be registered
