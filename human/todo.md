@@ -1,0 +1,4 @@
+- hosting (2 hosting face camera + eeg data)
+- data export with and without overlaying it (button to show this functionality)
+- (how are they capturing data) 
+- add a neurostream link for collecting muse data

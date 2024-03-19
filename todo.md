@@ -36,3 +36,9 @@ Setup todos:
 - add download option for all the data
 - python and matlab script to simply collect the muse data
 - domain needs to be registered
+
+
+
+- save all the csv data all at once
+- are all getting recorded all at once?
+- figure out if everything is getting recorded serially or parallely
