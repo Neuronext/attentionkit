@@ -25,15 +25,12 @@ Setup todos:
   - explain the exp 
   - record data
   - visualize data
-
-
-To Ask:
 - user management, later?
 
-3. record spectral data - csv 
-3. freq domain data
 2. raw data from eeg electrodes
 2. record raw data - max 5min - can i write it to ssd, then i can change it to 2 hours
+3. record spectral data - csv 
+3. freq domain data
 5. running fft vis
 4. power by fre band
 - add download option for all the data

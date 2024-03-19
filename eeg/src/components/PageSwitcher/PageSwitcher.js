@@ -313,7 +313,9 @@ export function PageSwitcher() {
         return null
       case raw: 
         return (
-          funRaw.renderRecord(recordPopChange, recordPop, status, rawSettings, setRawSettings)
+          <React.Fragment>
+            {funRaw.renderRecord(recordPopChange, recordPop, status, rawSettings)}
+          </React.Fragment>
         )    
       case spectra:
         return (
